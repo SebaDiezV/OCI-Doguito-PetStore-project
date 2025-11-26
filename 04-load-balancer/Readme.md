@@ -40,7 +40,7 @@ En este paso se creará el balanceador de carga como un frontend que tendrá en 
 11. Una vez que el estado del nuevo Load Balancer se Active, ingresar al Load Balancer
     <img width="568" height="153" alt="Captura desde 2025-11-25 12-58-08" src="https://github.com/user-attachments/assets/5b792ead-0ca9-4cf7-a11c-4cccf82be36c" />
 
-12. Puedes ver que el Load Balancer Health no presenta problemas
+12. Puedes ver que el Load Balancer Health no presenta problemas  
     <img width="487" height="551" alt="Captura desde 2025-11-25 12-58-23" src="https://github.com/user-attachments/assets/e91bbd72-3e8a-44e9-9d1c-50c32ade1268" />
 
 13. En la sección Load balancer information, se encuentra la IP pública del Load Balancer, copiar la IP
