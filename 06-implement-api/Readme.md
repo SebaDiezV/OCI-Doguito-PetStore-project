@@ -9,7 +9,7 @@ A continuación, configuraremos las VM's para la utilización de la API de Dogui
 2. Seleccionar la primera VM creada anteriormente  
     <img width="279" height="88" alt="Captura desde 2025-11-26 15-29-48" src="https://github.com/user-attachments/assets/8f286eb0-3d4b-4d39-8ee8-6069e2ad165f" />
 
-3. Seleccionar botón de Developer Tools que se sitúa al lado del ícono de anuncios, seleccionar Cloud Shell <b><b>
+3. Seleccionar botón de Developer Tools que se sitúa al lado del ícono de anuncios, seleccionar Cloud Shell  
     <img width="213" height="166" alt="Captura desde 2025-11-19 17-41-23" src="https://github.com/user-attachments/assets/826eefe0-647e-46ff-b140-bac9947f6380" />
 
 4. En Cloud Shell, conectar a instancia a través de su IP Pública utilizando el siguiente comando
