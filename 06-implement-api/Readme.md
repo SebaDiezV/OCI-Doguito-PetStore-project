@@ -123,7 +123,7 @@ A continuación, configuraremos las VM's para la utilización de la API de Dogui
 
         export DB_USER=ADMIN
         export DB_PASSWORD=<contraseña de ADMIN generada con la creación de Autonomous AI Database>
-        export CONNECT_STRING=dbdoguito_high
+        export CONNECT_STRING=doguitodb_high
         npm start
       <img width="509" height="215" alt="Captura desde 2025-11-26 17-35-09" src="https://github.com/user-attachments/assets/93aeb8c5-9a2c-4a05-95df-6f1dafe55e7f" />
 
