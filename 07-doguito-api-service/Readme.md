@@ -15,7 +15,7 @@ Se procede con la configuración de Doguito API para pasarlo a un servicio dentr
    
     <img width="421" height="50" alt="Captura desde 2025-11-27 16-14-36" src="https://github.com/user-attachments/assets/39c4348b-7ca4-41a9-9d17-ae22f3010f97" />
 
-2. Presionar la tecla "i" para poder editar el archivo, se puede ver en la parte baja que se encuentra en modo INSERT
+2. Presionar la tecla "i" para poder editar el archivo, se puede ver en la parte baja que se encuentra en modo INSERT  
     <img width="127" height="31" alt="Captura desde 2025-11-27 16-15-13" src="https://github.com/user-attachments/assets/4b00c74e-e108-427d-9da3-4efa4915f42d" />
 
 3. En el apartado [Service], agregar la información de DB_PASSWORD con la contraseña de la base de datos Auronomous, reemplazando los símbolos de interrogación, también reemplazar los símbolos de interrogación en CONNECT_STRING con la información de string correspondiente  
